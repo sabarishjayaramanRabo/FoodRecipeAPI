@@ -10,7 +10,7 @@ The API should be changed to Add below functionalities,
 Note:
 	The time limit is 90 minutes
 	The sample is created using .NET Core 3.0, but can be changed to any version
-	The URL of the API should be - http://{host}/api/FoodRecipe
+	The endpoint of the API should be - http://{host}/api/FoodRecipe
 	It should follow the REST guidlines
 	Proper error handling & design principles should be followed
 	Due to time constraint the below things can be excluded,
